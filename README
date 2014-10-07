@@ -1,0 +1,3 @@
+ram.java holds the definition of the RAM class. Each ram object corresponds to a VM physical memory.
+SynthRamImage is used to write memory images synthetically for debigging reasons.
+Main is used to drive the whole thing.
